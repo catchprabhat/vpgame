@@ -9,7 +9,7 @@
         "option-en": {
             "opt1": "Positive introduction",
             "opt2": "Friendly greeting",
-            "opt3": " Polite request",
+            "opt3": "Polite request",
             "opt4": "Expression of gratitude"
         },
         "option-fr": {
@@ -190,7 +190,7 @@
             "opt4": "Expression of gratitude",
             "opt2": "Friendly greeting",
             "opt3": "Positive introduction",
-            "opt1": " Polite request"
+            "opt1": "Polite request"
         },
         "option-fr": {
             "opt4": "Comment allez-vous ?",
