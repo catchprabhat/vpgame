@@ -1,32 +1,32 @@
 [
     {
         "cardNo": 1,
-        "lady-en": "How do you greet someone? Pick a card.",
-        "lady-fr": "Comment dit-on bonjour ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice hola? Elija una tarjeta.",
+        "lady-en": "How do you say \"hello\"? Pick a card. ",
+        "lady-fr": "Quelle est une autre manière de dire \"salut\" ? Choisissez une carte.",
+        "lady-es": "¿Cómo se dice \"hola\"? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Hallo“ auf Spanisch? Wählen Sie eine Karte.",
-        "Question-en": "Hello",
+        "Question-fr": "Bonjour",
         "option-en": {
-            "opt1": "Positive introduction",
-            "opt2": "Friendly greeting",
-            "opt3": "Polite request",
-            "opt4": "Expression of gratitude"
+            "opt1": "Nice to meet you",
+            "opt2": "Hello",
+            "opt3": "Please",
+            "opt4": "Thank you"
         },
         "option-fr": {
-            "opt1": "Enchanté(e)",
-            "opt2": "Bonjour",
-            "opt3": "Au revoir",
-            "opt4": "Merci"
+            "opt1": "Introduction positive",
+            "opt2": "Salutation amicale",
+            "opt3": "Expression d'adieu",
+            "opt4": "Expression de remerciement"
         },
         "option-es": {
-            "opt2": "Buenos días",
             "opt1": "Encantado/a de conocerle",
+            "opt2": "Buenos días",
             "opt3": "¿Cómo está?",
             "opt4": "Gracias"
         },
         "option-de": {
-            "opt2": "Hallo",
             "opt1": "Freut mich, Sie kennenzulernen",
+            "opt2": "Hallo",
             "opt3": "Wie geht es dir?",
             "opt4": "Danke"
         },
@@ -37,22 +37,22 @@
     },
     {
         "cardNo": 2,
-        "lady-en": "How do you express the pleasure of meeting someone? Pick a card.",
-        "lady-fr": "Comment dit-on enchanté(e) ? Choisissez une carte.",
+        "lady-en": "How do you say \"nice to meet you\"? Pick a card. ",
+        "lady-fr": "Comment exprime-t-on le plaisir de rencontrer quelqu'un ? Choisissez une carte.",
         "lady-es": "¿Cómo se dice encantado/a de conocerle? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Freut mich, Sie kennenzulernen“? Wählen Sie eine Karte.",
-        "Question-en": "Nice to meet you",
+        "Question-fr": "Introduction positive",
         "option-en": {
-            "opt1": "Question about well-being",
-            "opt2": "Expression of gratitude",
-            "opt3": "Expression of farewell",
-            "opt4": "Positive introduction"
+            "opt1": "Nice to meet you",
+            "opt2": "How are you?",
+            "opt3": "Thank you",
+            "opt4": "Nice to meet you"
         },
         "option-fr": {
-            "opt1": "S'il vous plaît",
+            "opt1": "Demande polie",
             "opt2": "Comment allez-vous ?",
-            "opt3": "Merci",
-            "opt4": "Enchanté(e)"
+            "opt3": "Expression de remerciement",
+            "opt4": "Introduction positive"
         },
         "option-es": {
             "opt1": "Por favor",
@@ -73,22 +73,22 @@
     },
     {
         "cardNo": 3,
-        "lady-en": "How do you ask about someone's well-being? Pick a card.",
-        "lady-fr": "Comment dit-on comment allez-vous ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice cómo está? Elija una tarjeta.",
+        "lady-en": "How do you say \"how are you\"? Pick a card.",
+        "lady-fr": "Quelle est une question polie ? Choisissez une carte. ",
+        "lady-es": "¿Cómo se dice \"cómo está\"? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Wie geht es dir?“? Ziehe eine Karte.",
-        "Question-en": "How are you?",
+        "Question-fr": "Comment allez-vous ?",
         "option-en": {
-            "opt1": "Expression of farewell",
+            "opt1": "Thank you",
             "opt2": "Expression of gratitude",
-            "opt3": "Question about well-being",
-            "opt4": "G Polite request"
+            "opt3": "How are you?",
+            "opt4": "Please"
         },
         "option-fr": {
-            "opt1": "Merci",
-            "opt2": "Enchanté(e)",
-            "opt3": "Comment allez-vous ?",
-            "opt4": "Au revoir"
+            "opt1": "Expression de remerciement",
+            "opt2": "Introduction positive",
+            "opt3": "Question sur le bien-être",
+            "opt4": "Expression d'adieu"
         },
         "option-es": {
             "opt1": "Gracias",
@@ -109,22 +109,22 @@
     },
     {
         "cardNo": 4,
-        "lady-en": "How do you express gratitude? Pick a card.",
-        "lady-fr": "Comment dit-on bonjour ? Choisissez une carte.",
+        "lady-en": "How do you say \"thank you\"? Pick a card.",
+        "lady-fr": "Comment remercie-t-on ? Choisissez une carte.",
         "lady-es": "¿Cómo se dice cómo está? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Danke“? Wählen Sie eine Karte.",
-        "Question-en": "Thank you",
+        "Question-fr": "Merci",
         "option-en": {
-            "opt1": "Polite request",
-            "opt2": "Expression of farewell",
-            "opt3": "Positive introduction",
-            "opt4": "Expression of gratitude"  
+            "opt1": "Thank you",
+            "opt2": "Nice to meet you",
+            "opt3": "Hello",
+            "opt4": "Please"  
         },
         "option-fr": {
-            "opt1": "Merci",
+            "opt1": "Expression de remerciement",
             "opt2": "Comment allez-vous ?",
-            "opt3": "Enchanté(e)",
-            "opt4": "Bonjour"        
+            "opt3": "Introduction positive",
+            "opt4": "Salutation amicale"        
         },
         "option-es": {
             "opt1": "Gracias",
@@ -146,22 +146,22 @@
     },
     {
         "cardNo": 5,
-        "lady-en": "How do you separate from someone? Pick a card.",
-        "lady-fr": "Comment dit-on bonjour ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice adiós? Elija una tarjeta.",
-        "lady-de": "Wie sagt man „Auf Wiedersehen“? Ziehe eine Karte.",
-        "Question-en": "Goodbye",
+        "lady-en": "How do you say \"please\"? Pick a card.",
+        "lady-fr": "Comment fait-on une demande polie ? Choisissez une carte.",
+        "lady-es": "¿Cómo se dice \"por favor\"? Elija una tarjeta.",
+        "lady-de": "Wie sagt man „bitte“? Ziehe eine Karte.",
+        "Question-fr": "S'il vous plaît",
         "option-en": {
-            "opt1": "Friendly greeting",
-            "opt2": "Question about well-being",
-            "opt3": "Polite request",
-            "opt4": "Expression of farewell"
+            "opt1": "Nice to meet you",
+            "opt2": "How are you?",
+            "opt3": "Thank you",
+            "opt4": "Please"
         },
         "option-fr": {
-            "opt1": "Enchanté(e)",
-            "opt2": "Merci",
+            "opt1": "Introduction positive",
+            "opt2": "Expression de remerciement",
             "opt3": "Comment allez-vous ?",
-            "opt4": "Au revoir"
+            "opt4": "Demande polie"
         },
         "option-es": {
             "opt1": "Encantado/a de conocerle",
@@ -177,26 +177,26 @@
         },
         "answer": {
             "option": "opt4",
-            "word": "Goodbye"
+            "word": "Please"
         }
     },
     {
         "cardNo": 6,
-        "lady6-en": "How do you make a polite request? Pick a card.",
-        "lady6-fr": "Comment dit-on s'il vous plaît ? Choisissez une carte.",
-        "lady6-es": "¿Cómo se dice por favor? Elija una tarjeta.",
-        "lady6-de": "Wie sagt man „bitte“? Ziehe eine Karte.",
-        "Question-en": "Please",
+        "lady6-en": "How do you say \"goodbye\"? Pick a card.",
+        "lady6-fr": "Quelle est la meilleure manière de dire \"adieu\" ? Choisissez une carte.",
+        "lady6-es": "¿Cómo se dice \"adiós\"? Elija una tarjeta.",
+        "lady6-de": "Wie sagt man „Auf Wiedersehen“? Ziehe eine Karte.",
+        "Question-fr": "Au revoir",
         "option-en": {
-            "opt1": "Polite request",
-            "opt2": "Friendly greeting",
-            "opt3": "Positive introduction",
-            "opt4": "Expression of gratitude",
+            "opt1": "Goodbye",
+            "opt2": "How are you?",
+            "opt3": "Thank you",
+            "opt4": "Hello"
         },
         "option-fr": {                     
-            "opt1": "S'il vous plaît",
-            "opt2": "Merci",
-            "opt3": "Au revoir",
+            "opt1": "Expression d'adieu",
+            "opt2": "Expression de remerciement",
+            "opt3": "Question sur le bien-être",
             "opt4": "Comment allez-vous ?"
         },
         "option-es": {
@@ -213,7 +213,7 @@
         },
         "answer": {
             "option": "opt1",
-            "word": "Please"
+            "word": "Goodbye"
         }
     }
 ]
