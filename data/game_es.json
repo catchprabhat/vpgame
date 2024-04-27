@@ -1,0 +1,219 @@
+[
+    {
+        "cardNo": 1,
+        "lady-en": "How do you say \"hello\"? Pick a card. ",
+        "lady-fr": "Quelle est une autre manière de dire \"salut\" ? Choisissez une carte.",
+        "lady-es": "¿Cómo se dice \"hola\"? Elija una tarjeta.",
+        "lady-de": "Wie sagt man „Hallo“ auf Spanisch? Wählen Sie eine Karte.",
+        "Question-es": "Buenos días",
+        "option-en": {
+            "opt1": "Nice to meet you",
+            "opt2": "Hello",
+            "opt3": "Please",
+            "opt4": "Thank you"
+        },
+        "option-fr": {
+            "opt1": "Introduction positive",
+            "opt2": "Salutation amicale",
+            "opt3": "Expression d'adieu",
+            "opt4": "Expression de remerciement"
+        },
+        "option-es": {
+            "opt1": "Introducción positiva",
+            "opt2": "Saludo amistoso",
+            "opt3": "Pregunta sobre el bienestar",
+            "opt4": "Expresión de gratitud"
+        },
+        "option-de": {
+            "opt1": "Freut mich, Sie kennenzulernen",
+            "opt2": "Hallo",
+            "opt3": "Wie geht es dir?",
+            "opt4": "Danke"
+        },
+        "answer": {
+            "Option": "opt2",
+            "word": "Hello"
+        }
+    },
+    {
+        "cardNo": 2,
+        "lady-en": "How do you say \"nice to meet you\"? Pick a card. ",
+        "lady-fr": "Comment exprime-t-on le plaisir de rencontrer quelqu'un ? Choisissez une carte.",
+        "lady-es": "¿Cómo se dice encantado/a de conocerle? Elija una tarjeta.",
+        "lady-de": "Wie sagt man „Freut mich, Sie kennenzulernen“? Wählen Sie eine Karte.",
+        "Question-es": "Encantado/a de conocerle",
+        "option-en": {
+            "opt1": "Nice to meet you",
+            "opt2": "How are you?",
+            "opt3": "Thank you",
+            "opt4": "Nice to meet you"
+        },
+        "option-fr": {
+            "opt1": "Demande polie",
+            "opt2": "Comment allez-vous ?",
+            "opt3": "Expression de remerciement",
+            "opt4": "Introduction positive"
+        },
+        "option-es": {
+            "opt1": "Pregunta sobre el bienestar",
+            "opt2": "Petición cortés",
+            "opt3": "Expresión de gratitud",
+            "opt4": "Introducción positiva"
+        },
+        "option-de": {
+            "opt1": "Freut mich, Sie kennenzulernen",
+            "opt2": "Wie geht es dir?,",
+            "opt3": "Danke",
+            "opt4": "Freut mich, Sie kennenzulernen"
+        },
+        "answer": {
+            "Option": "opt4",
+            "word": "Nice to meet you"
+        }
+    },
+    {
+        "cardNo": 3,
+        "lady-en": "How do you say \"how are you\"? Pick a card.",
+        "lady-fr": "Quelle est une question polie ? Choisissez une carte. ",
+        "lady-es": "¿Cómo se dice \"cómo está\"? Elija una tarjeta.",
+        "lady-de": "Wie sagt man „Wie geht es dir?“? Ziehe eine Karte.",
+        "Question-es": "¿Cómo está?",
+        "option-en": {
+            "opt1": "Thank you",
+            "opt2": "Expression of gratitude",
+            "opt3": "How are you?",
+            "opt4": "Please"
+        },
+        "option-fr": {
+            "opt1": "Expression de remerciement",
+            "opt2": "Introduction positive",
+            "opt3": "Question sur le bien-être",
+            "opt4": "Expression d'adieu"
+        },
+        "option-es": {
+            "opt1": "Expresión de despedida",
+            "opt2": "Introducción positiva",
+            "opt3": "Pregunta sobre el bienestar",
+            "opt4": "Expresión de gratitud"
+        },
+        "option-de": {
+            "opt1": "Danke",
+            "opt2": "Freut mich, Sie kennenzulernen",
+            "opt3": "Wie geht es dir?",
+            "opt4": "Auf Wiedersehen"
+        },
+        "answer": {
+            "option": "opt3",
+            "word": "How are you?"
+        }
+    },
+    {
+        "cardNo": 4,
+        "lady-en": "How do you say \"thank you\"? Pick a card.",
+        "lady-fr": "Comment remercie-t-on ? Choisissez une carte.",
+        "lady-es": "¿Cómo se dice cómo está? Elija una tarjeta.",
+        "lady-de": "Wie sagt man „Danke“? Wählen Sie eine Karte.",
+        "Question-es": "Gracias",
+        "option-en": {
+            "opt1": "Thank you",
+            "opt2": "Nice to meet you",
+            "opt3": "Hello",
+            "opt4": "Please"  
+        },
+        "option-fr": {
+            "opt1": "Expression de remerciement",
+            "opt2": "Comment allez-vous ?",
+            "opt3": "Introduction positive",
+            "opt4": "Salutation amicale"        
+        },
+        "option-es": {
+            "opt1": "Expresión de gratitud",
+            "opt2": "¿Cómo está?",
+            "opt3": "Encantado/a de conocerle",
+            "opt4": "Buenos días"
+           
+        },
+        "option-de": {
+            "opt1": "Auf Wiedersehen",
+            "opt2": "Danke",
+            "opt3": "Wie geht es dir?",
+            "opt4": "Hallo"
+        },
+        "answer": {
+            "option": "opt1",
+            "word": "Thank you"
+        }
+    },
+    {
+        "cardNo": 5,
+        "lady-en": "How do you say \"please\"? Pick a card.",
+        "lady-fr": "Comment fait-on une demande polie ? Choisissez une carte.",
+        "lady-es": "¿Cómo se dice \"por favor\"? Elija una tarjeta.",
+        "lady-de": "Wie sagt man „bitte“? Ziehe eine Karte.",
+        "Question-es": "Por favor",
+        "option-en": {
+            "opt1": "Nice to meet you",
+            "opt2": "How are you?",
+            "opt3": "Thank you",
+            "opt4": "Please"
+        },
+        "option-fr": {
+            "opt1": "Introduction positive",
+            "opt2": "Expression de remerciement",
+            "opt3": "Comment allez-vous ?",
+            "opt4": "Demande polie"
+        },
+        "option-es": {
+            "opt1": "Introducción positiva",
+            "opt2": "Pregunta sobre el bienestar",
+            "opt3": "Expresión de gratitud?",
+            "opt4": "Petición cortés"
+        },
+        "option-de": {
+            "opt1": "Freut mich, Sie kennenzulernen",
+            "opt2": "Danke",
+            "opt3": "Wie geht es dir?",
+            "opt4": "Auf Wiedersehen"
+        },
+        "answer": {
+            "option": "opt4",
+            "word": "Please"
+        }
+    },
+    {
+        "cardNo": 6,
+        "lady6-en": "How do you say \"goodbye\"? Pick a card.",
+        "lady6-fr": "Quelle est la meilleure manière de dire \"adieu\" ? Choisissez une carte.",
+        "lady6-es": "¿Cómo se dice \"adiós\"? Elija una tarjeta.",
+        "lady6-de": "Wie sagt man „Auf Wiedersehen“? Ziehe eine Karte.",
+        "Question-es": "Adiós",
+        "option-en": {
+            "opt1": "Goodbye",
+            "opt2": "How are you?",
+            "opt3": "Thank you",
+            "opt4": "Hello"
+        },
+        "option-fr": {                     
+            "opt1": "Expression d'adieu",
+            "opt2": "Expression de remerciement",
+            "opt3": "Question sur le bien-être",
+            "opt4": "Comment allez-vous ?"
+        },
+        "option-es": {
+            "opt1": "Expresión de despedida",
+            "opt2": "Expresión de gratitud",
+            "opt3": "Petición cortés",
+            "opt4": "Saludo amistoso"
+        },
+        "option-de": {
+            "opt1": "Bitte",
+            "opt2": "Danke",
+            "opt3": "Auf Wiedersehen",
+            "opt4": "Wie geht es dir?"
+        },
+        "answer": {
+            "option": "opt1",
+            "word": "Goodbye"
+        }
+    }
+]
