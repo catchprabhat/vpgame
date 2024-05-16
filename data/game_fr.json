@@ -5,7 +5,7 @@
         "lady-fr": "Quelle est une autre manière de dire \"salut\" ? Choisissez une carte.",
         "lady-es": "¿Cómo se dice \"hola\"? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Hallo“ auf Spanisch? Wählen Sie eine Karte.",
-        "Question-fr": "Bonjour",
+        "Question": "Bonjour",
         "option-en": {
             "opt1": "Nice to meet you",
             "opt2": "Hello",
@@ -31,7 +31,7 @@
             "opt4": "Danke"
         },
         "answer": {
-            "Option": "opt2",
+            "option": "opt2",
             "word": "Hello"
         }
     },
@@ -41,7 +41,7 @@
         "lady-fr": "Comment exprime-t-on le plaisir de rencontrer quelqu'un ? Choisissez une carte.",
         "lady-es": "¿Cómo se dice encantado/a de conocerle? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Freut mich, Sie kennenzulernen“? Wählen Sie eine Karte.",
-        "Question-fr": "Introduction positive",
+        "Question": "Introduction positive",
         "option-en": {
             "opt1": "Nice to meet you",
             "opt2": "How are you?",
@@ -67,7 +67,7 @@
             "opt4": "Freut mich, Sie kennenzulernen"
         },
         "answer": {
-            "Option": "opt4",
+            "option": "opt4",
             "word": "Nice to meet you"
         }
     },
@@ -77,7 +77,7 @@
         "lady-fr": "Quelle est une question polie ? Choisissez une carte. ",
         "lady-es": "¿Cómo se dice \"cómo está\"? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Wie geht es dir?“? Ziehe eine Karte.",
-        "Question-fr": "Comment allez-vous ?",
+        "Question": "Comment allez-vous ?",
         "option-en": {
             "opt1": "Thank you",
             "opt2": "Expression of gratitude",
@@ -113,7 +113,7 @@
         "lady-fr": "Comment remercie-t-on ? Choisissez une carte.",
         "lady-es": "¿Cómo se dice cómo está? Elija una tarjeta.",
         "lady-de": "Wie sagt man „Danke“? Wählen Sie eine Karte.",
-        "Question-fr": "Merci",
+        "Question": "Merci",
         "option-en": {
             "opt1": "Thank you",
             "opt2": "Nice to meet you",
@@ -150,7 +150,7 @@
         "lady-fr": "Comment fait-on une demande polie ? Choisissez une carte.",
         "lady-es": "¿Cómo se dice \"por favor\"? Elija una tarjeta.",
         "lady-de": "Wie sagt man „bitte“? Ziehe eine Karte.",
-        "Question-fr": "S'il vous plaît",
+        "Question": "S'il vous plaît",
         "option-en": {
             "opt1": "Nice to meet you",
             "opt2": "How are you?",
@@ -182,11 +182,11 @@
     },
     {
         "cardNo": 6,
-        "lady6-en": "How do you say \"goodbye\"? Pick a card.",
-        "lady6-fr": "Quelle est la meilleure manière de dire \"adieu\" ? Choisissez une carte.",
-        "lady6-es": "¿Cómo se dice \"adiós\"? Elija una tarjeta.",
-        "lady6-de": "Wie sagt man „Auf Wiedersehen“? Ziehe eine Karte.",
-        "Question-fr": "Au revoir",
+        "lady-en": "How do you say \"goodbye\"? Pick a card.",
+        "lady-fr": "Quelle est la meilleure manière de dire \"adieu\" ? Choisissez une carte.",
+        "lady-es": "¿Cómo se dice \"adiós\"? Elija una tarjeta.",
+        "lady-de": "Wie sagt man „Auf Wiedersehen“? Ziehe eine Karte.",
+        "Question": "Au revoir",
         "option-en": {
             "opt1": "Goodbye",
             "opt2": "How are you?",

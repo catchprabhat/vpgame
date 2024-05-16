@@ -11,9 +11,9 @@
         "Description-es":"Hello es un saludo común en inglés que significa hola.",
         "Description-de":"Hello ist eine gebräuchliche Begrüßung im Englischen. Die Leute nutzen es, um sich gegenseitig zu begrüßen oder zu begrüßen. Es ist eine freundliche Art, ein Gespräch zu beginnen oder jemandem Anerkennung zu schenken.",
         "Hint-en":"Hello, nice to meet you!",
-        "Hint-fr":"Bonjour, ravi de faire votre connaissance.",
-        "Hint-es":"¡Buenos días! ¿Cómo está?",
-        "Hint-de":"Hallo, schön dich kennen zu lernen."
+        "Hint-fr":"Hello, nice to meet you!",
+        "Hint-es":"Hello, nice to meet you!",
+        "Hint-de":"Hello, nice to meet you!"
     },
     {
         "wordID":2,
@@ -27,9 +27,9 @@
         "Description-es":"Nice to meet you es una expresión amable que se utiliza cuando conoces a alguien por primera vez y que significa encantado/a de conocerle.",
         "Description-de":"Nice to meet you ist ein freundlicher und höflicher Ausdruck, der verwendet wird, wenn Sie jemanden zum ersten Mal treffen. Er vermittelt eine positive Stimmung und drückt die Freude über die Bekanntschaft aus.",
         "Hint-en":"Hello, nice to meet you!",
-        "Hint-fr":"Bonjour, je m'appelle Robert. Enchanté.",
-        "Hint-es":"¡Hola! Encantado de conocerle.",
-        "Hint-de":"Hallo mein Name ist Robert. Freut mich, Sie kennenzulernen."
+        "Hint-fr":"Hello, nice to meet you!",
+        "Hint-es":"Hello, nice to meet you!",
+        "Hint-de":"Hello, nice to meet you!"
     },
     {
         "wordID":3,
@@ -43,9 +43,9 @@
         "Description-es":"How are you es un saludo común que también sirve como forma de indagar sobre el bienestar de alguien y que significa ¿Cómo está? .",
         "Description-de":"How are you? ist eine übliche Begrüßung, die auch dazu dient, sich nach dem Befinden einer Person zu erkundigen. Es ist eine freundliche und höfliche Frage, die die andere Person dazu anregt, mitzuteilen, wie sie sich fühlt oder was gerade in ihrem Leben passiert.",
         "Hint-en":"Hello, how are you?",
-        "Hint-fr":"Bonjour, comment allez-vous ?",
-        "Hint-es":"Hola, ¿cómo está?",
-        "Hint-de":"Guten Morgen, wie geht es dir ?"
+        "Hint-fr":"Hello, how are you?",
+        "Hint-es":"Hello, how are you?",
+        "Hint-de":"Hello, how are you?"
     },
     {
         "wordID":4,
@@ -59,9 +59,9 @@
         "Description-es":"Thank you es una expresión de gratitud o aprecio que significa gracias.",
         "Description-de":"Thank you ist ein Ausdruck von Dankbarkeit oder Wertschätzung. Es wird verwendet, um die Freundlichkeit, Hilfe oder eine nachdenkliche Geste einer Person anzuerkennen und anzuzeigen, dass Sie für das, was sie getan haben, dankbar sind.",
         "Hint-en":"I'm fine, thank you.",
-        "Hint-fr":"Merci beaucoup pour votre aide.",
-        "Hint-es":"Estoy bien, gracias.",
-        "Hint-de":"Vielen Dank für Ihre Hilfe."
+        "Hint-fr":"I'm fine, thank you.",
+        "Hint-es":"I'm fine, thank you.",
+        "Hint-de":"I'm fine, thank you."
     },
     {
         "wordID":5,
@@ -75,9 +75,9 @@
         "Description-es":"Goodbye es una expresión de despedida que se utiliza al despedirse de alguien y significa adiós.",
         "Description-de":"Goodbye ist ein Abschiedsausdruck, der beim Abschied von jemandem verwendet wird. Es ist eine Art, sich zu verabschieden oder sich zu verabschieden, oft mit der Absicht, sich in Zukunft wiederzusehen.",
         "Hint-en":"It was nice meeting you, goodbye!",
-        "Hint-fr":"C'était un plaisir de vous rencontrer, au revoir.",
-        "Hint-es":"Fue un placer conocerle, ¡adiós!",
-        "Hint-de":"Es war mir eine Freude, Sie kennenzulernen, auf Wiedersehen."
+        "Hint-fr":"It was nice meeting you, goodbye!",
+        "Hint-es":"It was nice meeting you, goodbye!",
+        "Hint-de":"It was nice meeting you, goodbye!"
     },
     {
         "wordID":6,
@@ -91,8 +91,8 @@
         "Description-es":"Please es una palabra que se utiliza para hacer peticiones o pedir algo de manera cortés. Significa por favor.",
         "Description-de":"Please ist ein höfliches Wort, das verwendet wird, um höflich Bitten zu äußern oder um etwas zu bitten. Es verleiht einem Satz Höflichkeit und wird oft verwendet, um Respekt oder Rücksichtnahme zu zeigen, wenn man um Hilfe oder Zusammenarbeit bittet.",
         "Hint-en":"May I use the bathroom, please?",
-        "Hint-fr":"Pouvez-vous m'indiquer le chemin, s'il vous plaît ?",
-        "Hint-es":"¿Puedo ir al baño?",
-        "Hint-de":"Kannst du mir bitte den Weg zeigen?"
+        "Hint-fr":"May I use the bathroom, please?",
+        "Hint-es":"May I use the bathroom, please?",
+        "Hint-de":"May I use the bathroom, please?"
     }
 ]
