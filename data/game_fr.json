@@ -1,10 +1,10 @@
 [
     {
         "cardNo": 1,
-        "lady-en": "How do you say \"hello\"? Pick a card. ",
-        "lady-fr": "Quelle est une autre manière de dire \"salut\" ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice \"hola\"? Elija una tarjeta.",
-        "lady-de": "Wie sagt man „Hallo“ auf Spanisch? Wählen Sie eine Karte.",
+        "lady-en": "How do you greet someone? Pick a card.",
+        "lady-fr": "Comment salue-t-on quelqu’un ? Choisissez une carte.",
+        "lady-es": "¿Cómo saludas a alguien? Elija una carta.",
+        "lady-de": "Wie begrüßt man jemanden? Wählen Sie eine Karte.",
         "Question": "Bonjour",
         "option-en": {
             "opt1": "Nice to meet you",
@@ -37,10 +37,10 @@
     },
     {
         "cardNo": 2,
-        "lady-en": "How do you say \"nice to meet you\"? Pick a card. ",
-        "lady-fr": "Comment exprime-t-on le plaisir de rencontrer quelqu'un ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice encantado/a de conocerle? Elija una tarjeta.",
-        "lady-de": "Wie sagt man „Freut mich, Sie kennenzulernen“? Wählen Sie eine Karte.",
+        "lady-en": "How do you express the pleasure of meeting someone? Pick a card.",
+        "lady-fr": "Comment exprime-t-on le plaisir de rencontrer quelqu’un ? Choisissez une carte.",
+        "lady-es": "¿Cómo se expresa el placer de conocer a alguien? Elija una tarjeta.",
+        "lady-de": "Wie drückt man seine Freude darüber aus, jemanden kennenzulernen? Wählen Sie eine Karte.",
         "Question": "Introduction positive",
         "option-en": {
             "opt1": "Nice to meet you",
@@ -73,10 +73,10 @@
     },
     {
         "cardNo": 3,
-        "lady-en": "How do you say \"how are you\"? Pick a card.",
-        "lady-fr": "Quelle est une question polie ? Choisissez une carte. ",
-        "lady-es": "¿Cómo se dice \"cómo está\"? Elija una tarjeta.",
-        "lady-de": "Wie sagt man „Wie geht es dir?“? Ziehe eine Karte.",
+        "lady-en": "How do you ask about someone's well-being? Pick a card.",
+        "lady-fr": "Comment pose-t-on des questions sur le bien-être de quelqu'un ? Choisissez une carte.",
+        "lady-es": "¿Cómo se pregunta por el bienestar de alguien? Elija una tarjeta.",
+        "lady-de": "Wie fragt man nach dem Wohlbefinden einer Person? Wählen Sie eine Karte.",
         "Question": "Comment allez-vous ?",
         "option-en": {
             "opt1": "Thank you",
@@ -109,10 +109,10 @@
     },
     {
         "cardNo": 4,
-        "lady-en": "How do you say \"thank you\"? Pick a card.",
-        "lady-fr": "Comment remercie-t-on ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice cómo está? Elija una tarjeta.",
-        "lady-de": "Wie sagt man „Danke“? Wählen Sie eine Karte.",
+        "lady-en": "How do you express gratitude? Pick a card.",
+        "lady-fr": "Comment exprime-t-on sa gratitude ? Choisissez une carte.",
+        "lady-es": "¿Cómo expresas gratitud? Elija una tarjeta.",
+        "lady-de": "Wie drückt man Dankbarkeit aus? Wählen Sie eine Karte.",
         "Question": "Merci",
         "option-en": {
             "opt1": "Thank you",
@@ -146,10 +146,10 @@
     },
     {
         "cardNo": 5,
-        "lady-en": "How do you say \"please\"? Pick a card.",
-        "lady-fr": "Comment fait-on une demande polie ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice \"por favor\"? Elija una tarjeta.",
-        "lady-de": "Wie sagt man „bitte“? Ziehe eine Karte.",
+        "lady-en": "How do you make a polite request? Pick a card.",
+        "lady-fr": "Quelle est la meilleure façon de dire adieu ? Choisissez une carte.",
+        "lady-es": "¿Cuál es la mejor manera de decir adiós? Elija una tarjeta.",
+        "lady-de": "Wie äußert man eine höfliche Bitte? Wählen Sie eine Karte.",
         "Question": "S'il vous plaît",
         "option-en": {
             "opt1": "Nice to meet you",
@@ -182,10 +182,10 @@
     },
     {
         "cardNo": 6,
-        "lady-en": "How do you say \"goodbye\"? Pick a card.",
-        "lady-fr": "Quelle est la meilleure manière de dire \"adieu\" ? Choisissez une carte.",
-        "lady-es": "¿Cómo se dice \"adiós\"? Elija una tarjeta.",
-        "lady-de": "Wie sagt man „Auf Wiedersehen“? Ziehe eine Karte.",
+        "lady-en": "What is the best way to say farewell? Pick a card.",
+        "lady-fr": "Comment fait-on une demande polie ? Choisissez une carte.",
+        "lady-es": "¿Cómo se hace una petición cortés? Elija una tarjeta.",
+        "lady-de": "Wie verabschiedet man sich am besten? Wählen Sie eine Karte.",
         "Question": "Au revoir",
         "option-en": {
             "opt1": "Goodbye",
